@@ -1,0 +1,57 @@
+/**
+ * @name Yoru
+ * @author リョウスケ#7300
+ * @version 1.2
+ * @description Yoru v1.2 theme
+ * @authorId 309952899272802306
+*/
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/dist/HorizontalServerList.css');
+:root {
+  --background-image: url('https://images8.alphacoders.com/126/1260379.jpg');
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-modal-image: url('https://images8.alphacoders.com/126/1260379.jpg');
+  --popout-modal-blur: 1px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center;
+  --home-button-image: url('https://images6.alphacoders.com/126/thumb-1920-1260553.jpg');
+  --home-button-size: cover;
+  --home-button-position: center;
+  --serverlist-brightness: 0.29;
+  --left-brightness: 0.6;
+  --middle-brightness: 0.29;
+  --right-brightness: 0.6;
+  --popout-modal-brightness: 0;
+  --gradient-primary: 0,0,0;
+  --gradient-secondary: 25,25,25;
+  --link-colour: #00b0f4;
+  --scrollbar-colour: rgba(255,255,255,0.05);
+  --gradient-direction: 185deg;
+  --tint-colour: 255,51,159;
+  --tint-brightness: 0;
+  --font: 'Whitney';
+  --window-padding: 6px;
+  --window-roundness: 10px;
+  --update-notice-1: none;
+  --HSL-server-icon-size: 40px;
+  --HSL-server-spacing: 10px;
+  --rs-small-spacing: 1px;
+  --rs-medium-spacing: 1px;
+  --rs-large-spacing: 4px;
+  --rs-small-width: 1px;
+  --rs-medium-width: 3px;
+  --rs-large-width: 3px;
+  --rs-avatar-shape: 30%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
